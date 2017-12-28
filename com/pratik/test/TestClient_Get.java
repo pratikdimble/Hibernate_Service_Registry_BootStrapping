@@ -4,7 +4,7 @@ import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.pratik.domain.EmpDetails;
+import com.pratik.entity.EmpDetails;
 import com.pratik.utility.HibernateUtil;
 
 public class TestClient_Get {
