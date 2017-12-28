@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import com.pratik.entity.EmpDetails;
 import com.pratik.utility.HibernateUtil;
 
-public class TestClient {
+public class TestClient_Save {
 
 	public static void main(String[] args) {
 		Session ses=null;
